@@ -1,0 +1,13 @@
+{
+	"include-dependencies": [
+        "test-react-library"
+    ],
+	"create-jar": {
+		"output-dir": "dist",
+		"features": {
+			"js-extender": true,
+			"web-context": "/liferay-react-test"
+		}
+	},
+	"dump-report": false
+}

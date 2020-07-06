@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="44" height="50" viewBox="0 0 44 50">
+    <defs>
+        <filter id="prefix__a" width="100%" height="100%" x="0%" y="0%" filterUnits="objectBoundingBox">
+            <feGaussianBlur in="SourceGraphic"/>
+        </filter>
+        <filter id="prefix__b" width="100%" height="100%" x="0%" y="0%" filterUnits="objectBoundingBox">
+            <feGaussianBlur in="SourceGraphic"/>
+        </filter>
+        <filter id="prefix__c" width="100%" height="100%" x="0%" y="0%" filterUnits="objectBoundingBox">
+            <feGaussianBlur in="SourceGraphic"/>
+        </filter>
+        <filter id="prefix__d" width="100%" height="100%" x="0%" y="0%" filterUnits="objectBoundingBox">
+            <feGaussianBlur in="SourceGraphic"/>
+        </filter>
+    </defs>
+    <g fill="none" fill-rule="evenodd">
+        <g fill="#8B8D8E" fill-rule="nonzero">
+            <path d="M23.481 4.385l-1.556-.008h-.012V3.41c0-.269-.233-.487-.522-.487h-1.565V1.95c0-.27-.233-.487-.521-.487H6.315C6.25.645 5.518 0 4.628 0c-.891 0-1.623.645-1.69 1.462H.522c-.288 0-.522.218-.522.487v24.848c0 .269.234.487.522.487h1.043v1.462c0 .269.234.487.522.487H3.13v1.462c0 .269.234.487.522.487h19.826c.288 0 .522-.218.522-.487V4.872c0-.268-.232-.486-.519-.487zM4.627.975c.314 0 .578.21.638.487H3.989c.06-.278.323-.488.638-.488zM1.043 26.31V2.436h1.89v3.527c0 .873.76 1.583 1.694 1.583.934 0 1.694-.71 1.694-1.583v-2.19c0-.27-.233-.487-.522-.487-.288 0-.521.218-.521.487v2.19c0 .336-.292.608-.651.608-.36 0-.651-.272-.651-.608V2.436h14.807V26.31H1.043zm1.566 1.949v-.975h16.695c.289 0 .522-.218.522-.487v-22.9h1.044V28.26H2.609zm1.565 1.949v-.975H21.39c.289 0 .522-.218.522-.487V5.35h.006l1.038.006v24.85H4.174z" filter="url(#prefix__a)" transform="translate(10 8.795)"/>
+            <path d="M13.5 10.023h-7c-.276 0-.5.249-.5.557 0 .307.224.556.5.556h7c.276 0 .5-.249.5-.556 0-.308-.224-.557-.5-.557z" filter="url(#prefix__b)" transform="translate(10 8.795)"/>
+            <path d="M13.5 12.25h-7c-.276 0-.5.25-.5.557 0 .307.224.557.5.557h7c.276 0 .5-.25.5-.557 0-.308-.224-.557-.5-.557z" filter="url(#prefix__c)" transform="translate(10 8.795)"/>
+            <path d="M11.5 14.477h-3c-.276 0-.5.25-.5.557 0 .308.224.557.5.557h3c.276 0 .5-.25.5-.557 0-.307-.224-.557-.5-.557z" filter="url(#prefix__d)" transform="translate(10 8.795)"/>
+        </g>
+    </g>
+</svg>
